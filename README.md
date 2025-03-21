@@ -14,7 +14,7 @@ This is a **local, asynchronous chatbot** designed to act as a data engineering 
 
 **Screenshots:**
 
-![Chat Interface](images/[mistral_bot.png])
+![Chat Interface](images/mistral_bot.png)
 
 ---
 
